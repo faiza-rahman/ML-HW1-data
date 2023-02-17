@@ -5,7 +5,7 @@ In part 1, we have created a LinearRegressionModel class, where we adjust the w 
 
 PART 2:<br>
 Libraries used:<br>
-sklearn, pandas, sklearn.metrics, sklearn.preprocessing, sklearn.model_selection, sklearn.linear_model
+sklearn, pandas
 
 
 !pip install sklearn<br>
