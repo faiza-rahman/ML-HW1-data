@@ -1,9 +1,9 @@
 # ML-HW1-data
 
-#PART 1:<br>
+# PART 1:<br>
 In part 1, we have created a LinearRegressionModel class, where we adjust the w and b values according to the gradient descent formulas discussed in class. In order to build and run this code, sklearn and pandas must be installed in order to utilize the library functions. Each section must be compiled and run  in chronological error for the latter code to work properly. 
 
-#PART 2:<br>
+# PART 2:<br>
 Libraries used:<br>
 sklearn, pandas
 
