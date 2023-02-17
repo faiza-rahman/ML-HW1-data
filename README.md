@@ -7,19 +7,19 @@ PART 2:
 
 
 !pip install sklearn<br>
-  We used sklearn throughout part 2 for multiple functions and packages.
+- We used sklearn throughout part 2 for multiple functions and packages.
 
 import pandas as pd<br>
-  The panda library was used in the pd.read command in order to create the dataframe.
+- The panda library was used in the pd.read command in order to create the dataframe.
 
 from sklearn.metrics import r2_score, mean_squared_error<br>
-  Both of these functions were used to calculate our evaluation statistics. 
+- Both of these functions were used to calculate our evaluation statistics. 
 
 from sklearn.preprocessing import StandardScaler<br>
-  Used to standardize the dataframe.
+- Used to standardize the dataframe.
 
 from sklearn.model_selection import train_test_split<br>
-  Function used to split the dataframe into test and train data.
+- Function used to split the dataframe into test and train data.
     
 from sklearn.linear_model import SGDRegressor<br>
-  Package used for the linear regression model using gradient descent.
+- Package used for the linear regression model using gradient descent.
